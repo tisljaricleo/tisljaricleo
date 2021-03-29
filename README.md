@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## 👋 Hi! I am Leo, Croatian researcher, developer, and tech writer!  
+📫 How to reach me: tisljaricleo@gmail.com or [LinkedIn profile](https://www.linkedin.com/in/leo-tisljaric-28a56b123/) 
 <!--
 **tisljaricleo/tisljaricleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🔭 My github stats ...
+
+Hi! I am Leo, Croatian researcher, developer, and tech writer!
+
+### 🔭 My github stats ...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tisljaricleo&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
-## ⚡ I'm working mostly in ...
+### ⚡ I'm working mostly in ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisljaricleo&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
