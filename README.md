@@ -25,6 +25,6 @@ Topics related to:
 - Providing simple, but usefull code for the community
   - Repos: [VRP web aplication in Django](https://github.com/tisljaricleo/VRPwebapp), [GPS visualization with Python](https://github.com/tisljaricleo/GPS-visualization-Python), [PyQGIS scripts](https://github.com/tisljaricleo/PyQgisScripts)
 ### 🔭 My github stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tisljaricleo&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisljaricleo&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tisljaricleo&hide_title=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisljaricleo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 ### ⚡ I'm working mostly in ...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisljaricleo&hide_title=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
