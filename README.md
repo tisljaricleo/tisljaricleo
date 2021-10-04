@@ -1,5 +1,5 @@
 ## 👋 Hi! I am Leo, Croatian researcher, developer, and tech writer!  
-📫 How to reach me: tisljaricleo@gmail.com or [LinkedIn profile](https://www.linkedin.com/in/leo-tisljaric-28a56b123/) 
+📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/leo-tisljaric-28a56b123/) 
 
 <!--
 - 🔭 I’m currently working on ...
