@@ -26,5 +26,12 @@ Topics related to:
   - Repos: [VRP web aplication in Django](https://github.com/tisljaricleo/VRPwebapp), [GPS visualization with Python](https://github.com/tisljaricleo/GPS-visualization-Python), [PyQGIS scripts](https://github.com/tisljaricleo/PyQgisScripts)  
 
 ***
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tisljaricleo)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisljaricleo)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tisljaricleo" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tisljaricleo&layout=compact&langs_count=8&card_width=320" />
+</a>
